@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there 👋, I'm Hai
+# Hi there 👋, I'm Chi Hai - Eether
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Mobile+Developer;Android+Developer;AI+%26+Machine+Learning+Enthusiast;Backend+Developer" alt="Typing SVG" />
 
